@@ -1,0 +1,78 @@
+[33mcommit d906c67f46bf986bdc7711c3af78c91c1ac24e42[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 1fbb10b 32b77fc
+Author: joucwj <646152036@qq.com>
+Date:   Thu Nov 2 09:22:32 2017 +0800
+
+    conflict fixed
+
+[33mcommit 1fbb10b9b5c16462daa18d6d0eeb7d3f1c6aaf27[m
+Author: joucwj <646152036@qq.com>
+Date:   Thu Nov 2 09:17:17 2017 +0800
+
+    & simple
+
+[33mcommit 32b77fcb1afe39cc446d213b4c098b87db6d8aa5[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: joucwj <646152036@qq.com>
+Date:   Thu Nov 2 09:15:28 2017 +0800
+
+    AND simple
+
+[33mcommit 22ff869c2ca26cd55efb48035db21e8c0106f165[m
+Author: joucwj <646152036@qq.com>
+Date:   Thu Nov 2 09:09:26 2017 +0800
+
+    branch test
+
+[33mcommit d6c3796da9b355959fe502072b8fe1d338ad0946[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: joucwj <646152036@qq.com>
+Date:   Wed Nov 1 09:54:15 2017 +0800
+
+    add test.txt
+
+[33mcommit a690d56bcb31de8123f7fdd95f06db39315ed36b[m
+Author: joucwj <646152036@qq.com>
+Date:   Wed Nov 1 09:51:30 2017 +0800
+
+    remove test.txt
+
+[33mcommit 425ebf536700d2fef74975ece37d7df743260c57[m
+Author: joucwj <646152036@qq.com>
+Date:   Wed Nov 1 09:50:19 2017 +0800
+
+    add test.txt
+
+[33mcommit f5db7e4104e71b369e4845122ff6139bd2fb75fc[m
+Author: joucwj <646152036@qq.com>
+Date:   Mon Oct 30 10:29:44 2017 +0800
+
+    Git tracks chagnes of files.
+
+[33mcommit be673fdc28f47f041abb74cf01af09e700f7310c[m
+Author: joucwj <646152036@qq.com>
+Date:   Mon Oct 30 10:26:55 2017 +0800
+
+    git tracks chagnes
+
+[33mcommit 93b2d2e93d06bf018a74f43d7b7656ba62d9f8d7[m
+Author: joucwj <646152036@qq.com>
+Date:   Mon Oct 30 10:00:44 2017 +0800
+
+    understand how stage works
+
+[33mcommit 49fb751206fcf9c9f98682e8cdb7f0acaf6d062a[m
+Author: joucwj <646152036@qq.com>
+Date:   Fri Oct 27 15:18:48 2017 +0800
+
+    append GPL
+
+[33mcommit e7ab3833f25f7ac7727efaffa431a8eafca32b93[m
+Author: joucwj <646152036@qq.com>
+Date:   Fri Oct 27 15:17:17 2017 +0800
+
+    add distributed
+
+[33mcommit ab153b32861b76b59250debf2176531ddb9c1a08[m
+Author: joucwj <646152036@qq.com>
+Date:   Fri Oct 27 15:13:53 2017 +0800
+
+    wrote a readme file
